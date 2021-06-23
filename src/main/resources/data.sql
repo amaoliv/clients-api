@@ -1,0 +1,5 @@
+insert into tb_clients(name, address, cpf, phone_number) values('Byun Baek Hyun', '72-11, Simgokbon 1(il)-dong, Sosa-gu Bucheon-si, Gyeonggi-do', '27537067007', '+82-7-678-8690');
+insert into tb_clients(name, address, cpf, phone_number) values('Kim Yong-sun', '250-6, Useongapateu, Ganseog 4(sa)-dong, Namdong-gu, Incheon', '69734145088', '+82-2-696-5241');
+insert into tb_clients(name, address, cpf, phone_number) values('Min Yoon Gi', '959-2, Bongdeog 2(i)-dong, Nam-gu, Daegu', '06251284005', '+82-5-846-4892');
+insert into tb_clients(name, address, cpf, phone_number) values('Lee Ji Eun', '526-4, Jurye 3(sam)-dong, Sasang-gu, Busan', '35793156097', '+82-1-368-0281');
+insert into tb_clients(name, address, cpf, phone_number) values('Kwon Hyuk', '142-10, Sinpyeongri, Daejeong-eup, Seogwipo-si, Jeju-do', '71948694034', '+82-5-563-6405');
